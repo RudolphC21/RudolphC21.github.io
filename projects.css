@@ -1,0 +1,20 @@
+h1 {
+    color:rgb(255, 255, 255);
+    font-family:sans-serif;
+    background-color:rgb(73, 121, 188);
+    margin:-14px;
+    padding:24px;
+    margin-bottom:30px;
+}
+
+h2 {
+    font-family:sans-serif;
+}
+
+h3 {
+    font-family: sans-serif;
+}
+
+centered {
+    text-align: center;
+}

@@ -1,0 +1,35 @@
+html {
+    background-color:rgb(201, 201, 201);
+}
+
+h1 {
+    color:rgb(255, 255, 255);
+    font-family:sans-serif;
+    background-color:rgb(73, 121, 188);
+    margin:-14px;
+    padding:24px;
+    margin-bottom:30px;
+}
+
+td {
+    background-color:rgb(73, 121, 188);
+    height:300px;
+    color:rgb(255, 255, 255);
+    font-family:sans-serif;
+    padding:10px;
+}
+
+table {
+    text-align:center;
+}
+
+table td + td {
+    background-color:rgb(201, 201, 201);
+    color:rgb(0,0,0);
+    vertical-align:center;
+    margin:20px;
+}
+
+
+
+

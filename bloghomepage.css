@@ -1,0 +1,23 @@
+h1 {
+    color:rgb(255, 255, 255);
+    font-family:sans-serif;
+    background-color:rgb(73, 121, 188);
+    margin:-14px;
+    padding:24px;
+    margin-bottom:30px;
+}
+
+.bodytype {
+    font-family:sans-serif;
+    text-align: center;
+}
+
+.bodytype-left {
+    font-family:sans-serif;
+}
+
+.figurecaption {
+    font-size:5px;
+}
+
+
